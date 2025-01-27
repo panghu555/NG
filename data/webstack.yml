@@ -1,70 +1,135 @@
----
-- taxonomy: 常用工具
+- taxonomy: 热门推荐
   icon: fa-star
   links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
-      url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+    - title: NG娱乐官网
+      logo: images/logos/NG66.png
+      url: https://156.234.80.132:8866/#/link?join=13965795
+      description: NG官方平台，畅玩多样化娱乐体验。
+    - title: C7娱乐官网
+      logo: images/logos/C766.png
+      url: https://c7111.com/
+      description: 安全可靠的C7游戏平台入口。
+    - title: NG备用官网
+      logo: images/logos/NG66.png
+      url: https://103.39.16.2:8866/#/link?join=13965795
+      description: NG官方备用地址，提供稳定访问体验。
+    - title: C7备用官网
+      logo: images/logos/C766.png
+      url: https://c71111.com/
+      description: 流畅便捷的C7备用平台。
+    - title: 移动端H5版 - NG娱乐
+      logo: images/logos/NG66.png
+      url: https://103.54.60.22:8866/#/link?join=13965795
+      description: NG娱乐H5版，免下载快速畅玩。
+    - title: 移动端H5版 - C7娱乐
+      logo: images/logos/C766.png
+      url: https://h5.c7h5gq.com/
+      description: C7娱乐移动端平台，操作便捷，轻松畅玩。
 
-- taxonomy: 云服务平台
-  icon: fa-cloud
-  links: 
-    - title: Github
-      url: https://github.com/
-  
-- taxonomy: 网络资源
-  icon: fa-download
-  list: 
-    - term: 软件
-      links:
-        - title: 果核剥壳
-          url: https://www.ghxi.com/
-          description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
-    - term: 游戏
-      links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
-          
-- taxonomy: 影视影音
-  icon: fa-video-camera
-  list: 
-    - term: 影视
-      links:
-        - title: 阿里小站
-          url: https://pan666.cn
-          description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
-    - term: 字幕
-      links:
-        - title: 字幕库
-          url: https://zmk.pw/
-        - title: SubHD
-          url: https://subhd.tv/
-    - term: 音乐
-      links:
-        - title: 果核音乐搜搜
-          url: https://music.ghxi.com/
-        - title: 音乐磁场
-          url: https://www.hifini.com/
+- taxonomy: 试玩模拟器
+  icon: fa-gamepad
+  links:
+    - title: 电子试玩网
+      logo: images/logos/PG.png
+      url: https://k92.cc
+      description: 官方提供多款电子游戏平台试玩服务。
+    - title: JDB电子试玩
+      logo: 
+      url: https://www.jdbgaming.com
+      description: 畅玩JDB经典电子游戏，真实体验。
+    - title: PP电子试玩
+      logo: 
+      url: https://super-pgslot.com
+      description: PP电子游戏，感受创新与乐趣。
+    - title: CQ9电子试玩
+      logo: 
+      url: https://demo.cqgame.games
+      description: CQ9官方试玩平台，尽享娱乐盛宴。
+    - title: BBIN系列
+      logo: 
+      url: https://www.bbin-news.com
+      description: BBIN系列试玩，探索丰富游戏内容。
+    - title: OB系列
+      logo: 
+      url: https://www.dbgaming.com
+      description: OB系列试玩平台，享受独特游戏体验。
+    - title: 五龙捕鱼
+      logo: 
+      url: https://bbin556.com
+      description: 官方五龙捕鱼游戏，体验捕鱼乐趣。
+    - title: 瓦力捕鱼
+      logo: 
+      url: https://www.jso31.com
+      description: 瓦力捕鱼试玩，畅玩全新捕鱼玩法。
 
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面一，对应content目录的sub1.md，可重命名、删除、复制。
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
-      
----
+- taxonomy: 白菜论坛/注册送零撸
+  icon: fa-gift
+  links:
+    - title: 老哥论坛
+      logo: 
+      url: https://lgw00.c6
+      description: 注册送体验金信息交流论坛。
+
+- taxonomy: 深夜福利
+  icon: fa-moon
+  links:
+    - title: 咪哩-精品X
+      logo: 
+      url: https://y.t261.cc
+      description: 精品资源深夜福利分享平台。
+    - title: 爱啪-幼x资源
+      logo: 
+      url: https://www.17c461.com:6699
+      description: 深夜精选资源，丰富内容。
+    - title: 黑料网
+      logo: 
+      url: https://18hlw.com
+      description: 实时更新的深夜福利资源聚合站。
+
+- taxonomy: 实用工具/软件
+  icon: fa-tools
+  links:
+    - title: 火币
+      logo: 
+      url: https://www.huobi.com
+      description: 安全稳定的数字资产交易平台。
+    - title: 币安
+      logo: 
+      url: https://www.binance.com
+      description: 国际顶级数字货币交易所，功能丰富。
+    - title: 欧意
+      logo: 
+      url: https://www.okx.com
+      description: 数字资产交易平台，安全快捷。
+    - title: to交易所
+      logo: 
+      url: https://token.im
+      description: 便捷的多币种数字资产交易平台。
+    - title: ok钱包
+      logo: 
+      url: https://img.tianya66.cc
+      description: 管理数字货币的安全钱包。
+    - title: 爱加速
+      logo: 
+      url: https://www.91ajs.com
+      description: 提供稳定快速的网络加速服务。
+
+- taxonomy: 社交&存储/资讯
+  icon: fa-comments
+  links:
+    - title: Meetalk
+      logo: 
+      url: https://meetlak.com
+      description: 隐私保护的社交平台，安全聊天工具。
+    - title: 纸飞机
+      logo: 
+      url: https://telegram.org
+      description: 全球领先的加密即时通讯工具。
+    - title: 泡泡
+      logo: 
+      url: https://paopaoim.com
+      description: 创新型社交平台，便捷的沟通方式。
+    - title: POP
+      logo: 
+      url: https://pop.im
+      description: 连接世界的新型社交工具。
