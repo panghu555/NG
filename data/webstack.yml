@@ -187,6 +187,110 @@
       url: https://www.555dy.com
       description: 一个老牌免费视频网站，更新快速，支持在线点播。
 
+- taxonomy: 短视频平台
+  icon: fa-video
+  links:
+    - title: 抖音
+      logo: 
+      url: https://www.douyin.com/
+      description: 国内最火爆的短视频平台，拥有丰富的娱乐、知识分享和生活内容。
+    - title: 快手
+      logo: 
+      url: https://www.kuaishou.com/
+      description: 主打真实生活记录，涵盖短视频、直播等内容，用户基础广泛。
+    - title: 哔哩哔哩（B站）
+      logo: 
+      url: https://www.bilibili.com/
+      description: 知名视频内容社区，短视频内容涵盖动漫、生活和创意领域。
+    - title: 小红书
+      logo: 
+      url: https://www.xiaohongshu.com/
+      description: 短视频与社交分享结合的种草平台，覆盖美妆、旅行、时尚等生活方式。
+    - title: 微视
+      logo: 
+      url: https://weishi.qq.com/
+      description: 腾讯推出的短视频平台，支持音乐特效和社交分享。
+    - title: 西瓜视频
+      logo: 
+      url: https://www.ixigua.com/
+      description: 字节跳动旗下的综合性视频平台，提供短视频和中长视频内容。
+    - title: 皮皮虾
+      logo: 
+      url: https://pipix.com/
+      description: 主打搞笑和社区互动的短视频平台，内容以段子和娱乐为主。
+    - title: 视频号
+      logo: 
+      url: https://weixin.qq.com/
+      description: 微信推出的短视频功能，直接与朋友圈和公众号关联，便于传播。
+    - title: 抖音极速版
+      logo: 
+      url: https://www.douyin.com/
+      description: 抖音推出的轻量版短视频平台，适合追求流畅体验的用户。
+    - title: Kuaishou极速版
+      logo: 
+      url: https://www.kuaishou.com/
+      description: 快手的极速版，功能精简但同样支持短视频浏览和分享。
+    - title: 逗拍
+      logo: 
+      url: https://www.doupai.cc/
+      description: 一款简单易用的视频创作平台，适合制作短视频或搞笑视频。
+    - title: 趣头条
+      logo: 
+      url: https://www.qutoutiao.net/
+      description: 内容聚合平台，短视频和资讯内容结合，适合碎片化阅读。
+    - title: 火山小视频
+      logo: 
+      url: https://www.huoshan.com/
+      description: 主打短视频拍摄、分享，内容以娱乐和生活为主。
+    - title: 今日头条
+      logo: 
+      url: https://www.toutiao.com/
+      description: 综合内容平台，提供短视频、新闻、热点资讯的个性化推荐。
+    - title: 美拍
+      logo: 
+      url: https://www.meipai.com/
+      description: 主打美颜和特效短视频的制作与分享，广受年轻人喜爱。
+    - title: 小咖秀
+      logo: 
+      url: https://www.xiaokaxiu.com/
+      description: 短视频平台，主打对口型模仿和创意表演，适合娱乐创作。
+    - title: 秒拍
+      logo: 
+      url: https://www.miaopai.com/
+      description: 老牌短视频平台，支持短视频拍摄、编辑和快速分享。
+    - title: 微博故事
+      logo: 
+      url: https://www.weibo.com/
+      description: 微博的短视频功能，支持随时分享生活点滴。
+
+- taxonomy: 论坛推荐
+  icon: fa-comments
+  links:
+    - title: 虎扑社区
+      logo: 
+      url: https://bbs.hupu.com/
+      description: 国内知名的体育和综合讨论社区，尤其是篮球、足球相关内容深受欢迎。
+    - title: 知乎盐选圈
+      logo: 
+      url: https://www.zhihu.com
+      description: 专注知识分享的讨论社区，覆盖各类兴趣圈子和热点话题。
+    - title: V2EX
+      logo: 
+      url: https://www.v2ex.com/
+      description: 以程序员和技术爱好者为主的讨论论坛，聚焦科技和互联网话题。
+    - title: 贴吧
+      logo: 
+      url: https://tieba.baidu.com/
+      description: 国内最大的兴趣社区，支持各类主题讨论，用户基础广泛。
+    - title: NGA玩家社区
+      logo: 
+      url: https://www.nga.cn/
+      description: 国内最大的游戏论坛之一，专注于网游和主机游戏讨论。
+    - title: 天涯社区
+      logo: 
+      url: https://bbs.tianya.cn/
+      description: 经典的综合性论坛，涵盖情感、社会热点、文学等多个板块。
+
 - taxonomy: 社交&资讯
   icon: fa-comments
   links:
@@ -302,34 +406,6 @@
       logo: 
       url: https://yitian.qq.com/
       description: 支持视频拍摄和剪辑的工具，内置丰富的滤镜和美化效果。
-     
-- taxonomy: 论坛推荐
-  icon: fa-comments
-  links:
-    - title: 虎扑社区
-      logo: 
-      url: https://bbs.hupu.com/
-      description: 国内知名的体育和综合讨论社区，尤其是篮球、足球相关内容深受欢迎。
-    - title: 知乎盐选圈
-      logo: 
-      url: https://www.zhihu.com
-      description: 专注知识分享的讨论社区，覆盖各类兴趣圈子和热点话题。
-    - title: V2EX
-      logo: 
-      url: https://www.v2ex.com/
-      description: 以程序员和技术爱好者为主的讨论论坛，聚焦科技和互联网话题。
-    - title: 贴吧
-      logo: 
-      url: https://tieba.baidu.com/
-      description: 国内最大的兴趣社区，支持各类主题讨论，用户基础广泛。
-    - title: NGA玩家社区
-      logo: 
-      url: https://www.nga.cn/
-      description: 国内最大的游戏论坛之一，专注于网游和主机游戏讨论。
-    - title: 天涯社区
-      logo: 
-      url: https://bbs.tianya.cn/
-      description: 经典的综合性论坛，涵盖情感、社会热点、文学等多个板块。
       
 - taxonomy: 实用工具
   icon: fa-tools
