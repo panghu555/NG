@@ -47,14 +47,6 @@
       url: https://www.dbgaming.com
       description: OB系列试玩平台，享受独特游戏体验。
 
-- taxonomy: 白菜论坛/注册送零撸
-  icon: fa-gift
-  links:
-    - title: 老哥论坛
-      logo: 
-      url: https://lgw00.c6
-      description: 注册送体验金信息交流论坛。
-
 - taxonomy: 深夜福利
   icon: fa-moon
   links:
