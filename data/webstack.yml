@@ -82,6 +82,38 @@
       logo: 
       url: https://cupfox.app
       description: 全网影视聚合平台，支持在线查找和观看，无需注册。
+    - title: 星辰影院
+      logo: 
+      url: https://www.vodxc.com
+      description: 免费影视点播网站，支持高清影片播放，无需会员。
+    - title: 电影蜜蜂
+      logo: 
+      url: https://www.dianyingmf.com
+      description: 高质量电影分享平台，提供多类型影视资源。
+    - title: 冷门影视
+      logo: 
+      url: https://www.lenmen.tv
+      description: 提供少见电影资源，支持免费观看，无广告干扰。
+    - title: 南瓜影视
+      logo: 
+      url: https://www.nangua.tv
+      description: 免费高清影视点播平台，覆盖国内外热门电影和剧集。
+    - title: 哔嘀影视
+      logo: 
+      url: https://www.bde4.com
+      description: 无广告、无需会员，汇集大量高清影视资源。
+    - title: 555电影
+      logo: 
+      url: https://www.555dy.com
+      description: 一个老牌免费视频网站，更新快速，支持在线点播。
+    - title: 天天美剧
+      logo: 
+      url: https://www.ttmeiju.vip
+      description: 专注美剧资源，提供高清美剧下载与在线观看。
+    - title: 爱追剧
+      logo: 
+      url: https://www.aizhuiju.com
+      description: 国内热门剧集观看平台，支持最新电视剧资源更新。
 
 - taxonomy: 短视频平台
   icon: fa-video
