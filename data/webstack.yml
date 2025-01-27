@@ -1,17 +1,17 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 热门推荐
   icon: fa-star
   links: 
-    - title: YouTube
-      logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
+    - title: NG娱乐官网
+      logo: images/logos/NG66.png
+      url: https://156.234.80.132:8866/#/link?join=13965795
+      description: NG官方平台，畅玩多样化娱乐体验。
+    - title: C7娱乐官网
+      qrcode: C7娱乐官网
+      logo:  images/logos/C766.png
+      url: https://c7111.com/
+      description: 安全可靠的C7游戏平台入口。
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
