@@ -33,7 +33,7 @@
     - title: PG电子试玩
       logo: images/logos/PG.png
       url: https://hfuisahdl.com/page2/page_2.html
-      description: 官方提供多款电子游戏平台试玩服务，畅享多元化的电子娱乐。
+      description: 官方提供多款电子游戏试玩服务，畅享多元化的电子娱乐。
     - title: JDB电子试玩
       logo: images/logos/JDB.png
       url: https://www.jdbgaming.com
@@ -50,26 +50,42 @@
       logo: images/logos/MG.png
       url: https://www.microgaming.co.uk
       description: MG官方试玩平台，探索经典和现代电子游戏魅力。
-    - title: PT电子试玩
-      logo: images/logos/PT.png
-      url: https://www.playtech.com
-      description: PT平台官方提供多款游戏免费试玩，真实感受娱乐魅力。
-    - title: AG电子试玩
-      logo: images/logos/AG.png
-      url: https://www.asia-gaming.com
-      description: 亚洲顶尖游戏平台AG提供免费试玩服务，尽享优质娱乐。
-    - title: FG电子试玩
-      logo: images/logos/FG.png
-      url: https://www.fggaming.com
-      description: FG游戏平台试玩入口，体验流畅的游戏操作和多样化玩法。
-    - title: RT电子试玩
-      logo: images/logos/RT.png
-      url: https://www.redtigergaming.com
-      description: RT电子官方试玩平台，探索创意丰富的电子游戏世界。
+    - title: TTG电子试玩
+      logo: images/logos/TTG.png
+      url: https://www.ttg.com
+      description: TTG游戏平台提供免费试玩服务，畅享优质游戏体验。
+    - title: SG电子试玩
+      logo: images/logos/SG.png
+      url: https://www.sg.com
+      description: SG平台提供免费试玩，体验精彩多样的电子游戏内容。
     - title: EVO真人试玩
       logo: images/logos/EVO.png
       url: https://www.evolution.com
       description: 领先的真人娱乐平台，提供沉浸式试玩体验。
+    - title: AG电子试玩
+      logo: images/logos/AG.png
+      url: https://www.asia-gaming.com
+      description: 亚洲顶尖游戏平台AG提供免费试玩服务，尽享优质娱乐。
+    - title: YGG电子试玩
+      logo: images/logos/YGG.png
+      url: https://www.yggdrasilgaming.com
+      description: YGG官方免费试玩，提供独具创意的电子游戏内容。
+    - title: Playtech试玩
+      logo: images/logos/PT.png
+      url: https://www.playtech.com
+      description: 提供多款免费游戏试玩，真实感受娱乐魅力。
+    - title: Red Tiger试玩
+      logo: images/logos/RT.png
+      url: https://www.redtigergaming.com
+      description: 创意丰富的RT电子游戏世界，探索无限可能。
+    - title: Pragmatic Play试玩
+      logo: images/logos/PP.png
+      url: https://www.pragmaticplay.com
+      description: 提供一流的游戏内容与免费试玩服务。
+    - title: Habanero试玩
+      logo: images/logos/HBN.png
+      url: https://www.habanerosystems.com
+      description: Habanero平台提供多样化的免费电子游戏内容。
       
 - taxonomy: 深夜娱乐资源
   icon: fa-moon
