@@ -28,7 +28,7 @@ copyright = "© 2025 NG/C7导航站 - 权威导航"
 
 # GitHub代码按钮设置（显示或隐藏）
 [params.github]
-  enable = true
+  enable = false
   url = "https://github.com/oulh/nav"
   
 # 自定义页面路径
