@@ -1,5 +1,5 @@
 ---
-- taxonomy: 热门推荐 🌟
+- taxonomy: 热门推荐
   icon: fa-star
   links: 
     - title: NG娱乐官网
@@ -27,7 +27,7 @@
       url: https://h5.c7h5gq.com/
       description: C7娱乐移动端平台，操作便捷，轻松畅玩。
 
-- taxonomy: 免费试玩平台 🎮
+- taxonomy: 免费试玩平台
   icon: fa-gamepad
   links:
     - title: PG电子试玩
@@ -71,7 +71,7 @@
       url: https://www.evolution.com
       description: 领先的真人娱乐平台，提供沉浸式试玩体验。
       
-- taxonomy: 深夜娱乐资源 🌙
+- taxonomy: 深夜娱乐资源
   icon: fa-moon
   links:
     - title: 福利吧
@@ -111,7 +111,7 @@
       url: https://www.jilezy.com
       description: 提供深夜精选资源，实时更新，内容全面。
       
-- taxonomy: 在线电影网站 🎥
+- taxonomy: 在线电影网站
   icon: fa-film
   links:
     - title: 人人影视
@@ -155,7 +155,7 @@
       url: https://www.aizhuiju.com
       description: 国内热门剧集观看平台，支持最新电视剧资源更新。
 
-- taxonomy: 短视频平台 🎬
+- taxonomy: 短视频平台
   icon: fa-video
   links:
     - title: 抖音
@@ -199,7 +199,7 @@
       url: https://www.miaopai.com/
       description: 老牌短视频平台，支持视频拍摄、编辑和快速分享。
       
-- taxonomy: 论坛推荐 💬
+- taxonomy: 论坛推荐
   icon: fa-comments
   links:
     - title: 虎扑社区
@@ -227,7 +227,7 @@
       url: https://bbs.tianya.cn/
       description: 经典的综合性论坛，涵盖情感、社会热点、文学等多个板块。
 
-- taxonomy: 社交&资讯 📱
+- taxonomy: 社交&资讯
   icon: fa-comments
   links:
     - title: 纸飞机（需要VPN）
@@ -251,7 +251,7 @@
       url: https://wuquan.com
       description: 新兴社交平台，主打兴趣圈子和即时互动，构建有趣的社交生态。
       
-- taxonomy: 虚拟币软件 💰
+- taxonomy: 虚拟币软件
   icon: fa-tools
   links:
     - title: 火币
@@ -271,7 +271,7 @@
       url: https://token.im
       description: 高效便捷的多币种数字资产交易平台，满足多样化需求。
       
-- taxonomy: VPN加速器 🌐
+- taxonomy: VPN加速器
   icon: fa-tools
   links:
     - title: 爱加速
@@ -295,7 +295,7 @@
       url: https://apps.apple.com/us/app/shadowrocket/id932747118
       description: 强大的网络代理工具，适用于苹果设备，支持多协议并提供高自由度的配置功能。
       
-- taxonomy: 国外ID短信接码 🔧
+- taxonomy: 国外ID短信接码
   icon: fa-tools
   links: 
     - title: 苹果国外ID购买网站
@@ -307,7 +307,7 @@
       url: https://sms-activate.org
       description: 专业的接码平台，支持全球虚拟号码接收验证码服务，便捷高效。
      
-- taxonomy: 短视频剪辑 🎬
+- taxonomy: 短视频剪辑
   icon: fa-video
   links:
     - title: 剪映
@@ -335,7 +335,7 @@
       url: https://yitian.qq.com/
       description: 支持视频拍摄和剪辑的工具，内置丰富的滤镜和美化效果。
       
-- taxonomy: 实用工具 🔧
+- taxonomy: 实用工具
   icon: fa-tools
   links:
     - title: 站长工具
