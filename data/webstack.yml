@@ -33,55 +33,207 @@
     - title: PG电子试玩
       logo: images/logos/PG.png
       url: https://hfuisahdl.com/page2/page_2.html
-      description: 官方提供多款电子游戏平台试玩服务。
+      description: 官方提供多款电子游戏平台试玩服务，畅享多元化的电子娱乐。
     - title: JDB电子试玩
       logo: images/logos/JDB.png
       url: https://www.jdbgaming.com
-      description: 畅玩JDB经典电子游戏，真实体验。
+      description: 畅玩JDB经典电子游戏，真实体验精彩玩法。
     - title: CQ9电子试玩
       logo: images/logos/CQ9.png
       url: https://demo.cqgame.games
-      description: CQ9官方试玩平台，尽享娱乐盛宴。
+      description: CQ9官方试玩平台，尽享高品质娱乐盛宴。
     - title: DB系列试玩
       logo: images/logos/DB.png
       url: https://www.dbgaming.com
-      description: OB系列试玩平台，享受独特游戏体验。
-
-- taxonomy: 深夜福利
+      description: DB系列试玩平台，带来创新独特的游戏体验。
+    - title: MG电子试玩
+      logo: images/logos/MG.png
+      url: https://www.microgaming.co.uk
+      description: MG官方试玩平台，探索经典和现代电子游戏魅力。
+    - title: PT电子试玩
+      logo: images/logos/PT.png
+      url: https://www.playtech.com
+      description: PT平台官方提供多款游戏免费试玩，真实感受娱乐魅力。
+    - title: AG电子试玩
+      logo: images/logos/AG.png
+      url: https://www.asia-gaming.com
+      description: 亚洲顶尖游戏平台AG提供免费试玩服务，尽享优质娱乐。
+    - title: FG电子试玩
+      logo: images/logos/FG.png
+      url: https://www.fggaming.com
+      description: FG游戏平台试玩入口，体验流畅的游戏操作和多样化玩法。
+    - title: RT电子试玩
+      logo: images/logos/RT.png
+      url: https://www.redtigergaming.com
+      description: RT电子官方试玩平台，探索创意丰富的电子游戏世界。
+    - title: EVO真人试玩
+      logo: images/logos/EVO.png
+      url: https://www.evolution.com
+      description: 领先的真人娱乐平台，提供沉浸式试玩体验。
+    - title: BBIN电子试玩
+      logo: images/logos/BBIN.png
+      url: https://www.bbin.com
+      description: 亚洲领先的电子游戏平台，提供丰富多样的试玩游戏。
+    - title: SG电子试玩
+      logo: images/logos/SG.png
+      url: https://www.sggaming.com
+      description: SG官方游戏平台，提供全球知名的电子游戏免费试玩。
+    - title: KA电子试玩
+      logo: images/logos/KA.png
+      url: https://www.kagaming.com
+      description: KA游戏平台试玩服务，感受多元化的娱乐内容。
+    - title: BG真人试玩
+      logo: images/logos/BG.png
+      url: https://www.bg-gaming.com
+      description: BG真人娱乐平台，提供专业高端的真人游戏试玩。
+    - title: WM真人试玩
+      logo: images/logos/WM.png
+      url: https://www.wm-gaming.com
+      description: WM真人游戏平台，体验沉浸式真人娱乐服务。
+    - title: ISB电子试玩
+      logo: images/logos/ISB.png
+      url: https://www.isbgaming.com
+      description: ISB平台提供全方位的试玩服务，游戏丰富多样。
+    - title: YGG电子试玩
+      logo: images/logos/YGG.png
+      url: https://www.yggdrasilgaming.com
+      description: YGG全球知名游戏平台，享受独具特色的游戏内容。
+    - title: 金殿试玩
+      logo: images/logos/GoldPalace.png
+      url: https://www.goldpalace.com
+      description: 提供丰富多样的电子与真人游戏试玩体验。
+    - title: 老虎机试玩
+      logo: images/logos/SlotMachine.png
+      url: https://www.slotmachine.com
+      description: 专业老虎机游戏试玩平台，体验经典与现代玩法。
+    - title: 龙腾电子试玩
+      logo: images/logos/Dragon.png
+      url: https://www.dragon-gaming.com
+      description: 龙腾游戏平台提供多种电子游戏免费试玩服务。
+    - title: 至尊试玩
+      logo: images/logos/Supreme.png
+      url: https://www.supremegaming.com
+      description: 至尊娱乐试玩平台，涵盖多种精彩游戏类型。
+    - title: 星罗试玩
+      logo: images/logos/Star.png
+      url: https://www.stargaming.com
+      description: 星罗游戏平台试玩入口，轻松体验多样化娱乐内容。
+      
+- taxonomy: 深夜娱乐资源
   icon: fa-moon
   links:
-    - title: 咪哩-精品X
+    - title: 福利吧
       logo: 
-      url: https://y.t261.cc
-      description: 精品资源深夜福利分享平台。
-    - title: 爱啪-幼x资源
+      url: https://fuliba2023.com
+      description: 提供精选深夜娱乐资源，包含多样化的内容推荐。
+    - title: 次元猫
       logo: 
-      url: https://www.17c461.com:6699
-      description: 深夜精选资源，丰富内容。
-    - title: 黑料网
+      url: https://www.ciyuanmao2023.com
+      description: 动漫、影视、小说等综合资源分享平台，更新快速。
+    - title: 盘丝洞
       logo: 
-      url: https://18hlw.com
-      description: 实时更新的深夜福利资源聚合站。
+      url: https://www.pansidong2023.com
+      description: 提供丰富的深夜娱乐内容，资源分类清晰，用户体验优秀。
+    - title: 宅腐社
+      logo: 
+      url: https://www.zhaifushe.com
+      description: 二次元、轻小说、深夜福利资源分享社区，资源丰富。
+    - title: 绅士宝典
+      logo: 
+      url: https://www.shenshibaodian.com
+      description: 提供高质量深夜资源推荐，涵盖多类型内容。
+    - title: 趣站导航
+      logo: 
+      url: https://www.qzhd2023.com
+      description: 一个整合多个深夜娱乐资源的综合导航站，便捷高效。
+    - title: 夜猫导航
+      logo: 
+      url: https://www.yemaohd.com
+      description: 提供多领域深夜资源，更新及时，推荐内容丰富。
+    - title: 二次元天堂
+      logo: 
+      url: https://www.erciyuantt.com
+      description: 动漫资源、二次元资讯集中地，适合动漫爱好者。
+    - title: 极乐资源
+      logo: 
+      url: https://www.jilezy.com
+      description: 提供深夜精选资源，实时更新，内容全面。
+      
+- taxonomy: 在线电影网站
+  icon: fa-film
+  links:
+    - title: 人人影视
+      logo: 
+      url: https://www.yyets.com
+      description: 提供丰富的海外影视资源，支持在线免费观看和下载，无需会员。
+    - title: 哔嘀影视
+      logo: 
+      url: https://www.bde4.com
+      description: 无广告、无需会员，汇集大量高清影视资源。
+    - title: 茶杯狐
+      logo: 
+      url: https://cupfox.app
+      description: 全网影视聚合平台，支持在线查找和观看，无需注册。
+    - title: 南瓜影视
+      logo: 
+      url: https://www.nangua.tv
+      description: 免费高清影视点播平台，覆盖国内外热门电影和剧集。
+    - title: 冷门影视
+      logo: 
+      url: https://www.lenmen.tv
+      description: 提供少见电影资源，支持免费观看，无广告干扰。
+    - title: 555电影
+      logo: 
+      url: https://www.555dy.com
+      description: 一个老牌免费视频网站，更新快速，支持在线点播。
 
+- taxonomy: 社交&资讯
+  icon: fa-comments
+  links:
+    - title: 纸飞机
+      logo: 
+      url: https://telegram.org
+      description: 全球领先的加密即时通讯工具，保障您的隐私与安全。
+    - title: 旺旺商聊
+      logo: 
+      url: https://wangwangr.com
+      description: 高效的商务沟通平台，为您提供安全稳定的聊天服务。
+    - title: 钉钉
+      logo: 
+      url: https://www.dingtalk.com
+      description: 专为企业设计的智能办公平台，支持即时通讯与高效协作。
+    - title: 思语
+      logo: 
+      url: https://siyu.com
+      description: 新一代社交平台，以隐私保护和高效沟通为核心，打造专属社区。
+    - title: 吾圈
+      logo: 
+      url: https://wuquan.com
+      description: 新兴社交平台，主打兴趣圈子和即时互动，构建有趣的社交生态。
+      
 - taxonomy: 虚拟币软件
   icon: fa-tools
   links:
     - title: 火币
       logo: 
       url: https://www.huobi.com
-      description: 安全稳定的数字资产交易平台。
+      description: 全球领先的数字资产交易平台，提供安全、稳定的交易服务。
     - title: 币安
       logo: 
       url: https://www.binance.com
-      description: 国际顶级数字货币交易所，功能丰富。
+      description: 国际顶级数字货币交易所，支持多种币种交易和创新功能。
     - title: 欧意
       logo: 
       url: https://www.okx.com
-      description: 数字资产交易平台，安全快捷。
-    - title: to交易所
+      description: 专业的数字资产交易平台，安全快捷，用户体验友好。
+    - title: TO交易所
       logo: 
       url: https://token.im
-      description: 便捷的多币种数字资产交易平台。
+      description: 高效便捷的多币种数字资产交易平台，满足多样化需求。
+    - title: 虚拟币使用教程
+      logo: 
+      url: https://www.example.com/crypto-tutorial-china
+      description: 面向中国用户的虚拟币入门教程，包含账户注册、交易流程、风险管理等详细讲解。
       
 - taxonomy: VPN加速器
   icon: fa-tools
@@ -89,17 +241,122 @@
     - title: 爱加速
       logo: 
       url: https://www.91ajs.com
-      description: 提供稳定快速的网络加速服务。
-
-- taxonomy: 社交&存储/资讯
+      description: 提供稳定快速的网络加速服务，支持苹果和安卓设备。
+    - title: 天行VPN
+      logo: 
+      url: https://www.txvpn.com
+      description: 专为中国用户设计，提供多节点选择，支持苹果和安卓设备。
+    - title: 快帆VPN
+      logo: 
+      url: https://www.kuaifanvpn.com
+      description: 高效的跨境加速工具，适配苹果和安卓系统，专注稳定性。
+    - title: 影梭Shadowsocks
+      logo: 
+      url: https://www.shadowsocks.com
+      description: 开源VPN工具，提供快速、稳定的加密网络加速服务。
+    - title: 苹果小火箭（Shadowrocket）
+      logo: 
+      url: https://apps.apple.com/us/app/shadowrocket/id932747118
+      description: 强大的网络代理工具，适用于苹果设备，支持多协议并提供高自由度的配置功能。
+    - title: VPN使用教程
+      logo: 
+      url: https://www.example.com/vpn-tutorial
+      description: 详细讲解VPN的基础知识、安装流程及使用技巧，适合新手用户。
+      
+- taxonomy: 虚拟服务与工具
+  icon: fa-tools
+  links: 
+    - title: 苹果国外ID购买网站
+      logo: 
+      url: https://fk.appledi.com/
+      description: 提供安全便捷的苹果国外ID购买服务，支持国内用户快速购买和使用。
+    - title: 接码平台
+      logo: 
+      url: https://sms-activate.org
+      description: 专业的接码平台，支持全球虚拟号码接收验证码服务，便捷高效。
+     
+- taxonomy: 短视频剪辑软件
+  icon: fa-video
+  links:
+    - title: 剪映
+      logo: 
+      url: https://lv.ulikecam.com/
+      description: 简单易用的短视频剪辑工具，支持滤镜、字幕和特效，适合初学者。
+    - title: 快影
+      logo: 
+      url: https://www.kwai.com/
+      description: 快手官方推出的视频剪辑工具，提供丰富的音乐和剪辑模板。
+    - title: 轻抖
+      logo: 
+      url: https://www.qingdou.vip
+      description: 抖音创作者专属工具，提供数据分析、运营支持和短视频剪辑功能。
+    - title: 美册
+      logo: 
+      url: https://www.meiceshi.com/
+      description: 国内知名的视频制作和剪辑工具，支持卡点模板和音频提取。
+    - title: 秒剪
+      logo: 
+      url: https://sj.qq.com/myapp/detail.htm?apkName=com.qq.shortvideo
+      description: 腾讯推出的短视频剪辑工具，支持智能剪辑和多种特效。
+    - title: 一甜相机
+      logo: 
+      url: https://yitian.qq.com/
+      description: 支持视频拍摄和剪辑的工具，内置丰富的滤镜和美化效果。
+     
+- taxonomy: 论坛推荐
   icon: fa-comments
   links:
-    - title: 纸飞机
+    - title: 虎扑社区
       logo: 
-      url: https://telegram.org
-      description: 全球领先的加密即时通讯工具。
-    - title: 泡泡
+      url: https://bbs.hupu.com/
+      description: 国内知名的体育和综合讨论社区，尤其是篮球、足球相关内容深受欢迎。
+    - title: 知乎盐选圈
       logo: 
-      url: https://paopaoim.com
-      description: 创新型社交平台，便捷的沟通方式。
+      url: https://www.zhihu.com
+      description: 专注知识分享的讨论社区，覆盖各类兴趣圈子和热点话题。
+    - title: V2EX
+      logo: 
+      url: https://www.v2ex.com/
+      description: 以程序员和技术爱好者为主的讨论论坛，聚焦科技和互联网话题。
+    - title: 贴吧
+      logo: 
+      url: https://tieba.baidu.com/
+      description: 国内最大的兴趣社区，支持各类主题讨论，用户基础广泛。
+    - title: NGA玩家社区
+      logo: 
+      url: https://www.nga.cn/
+      description: 国内最大的游戏论坛之一，专注于网游和主机游戏讨论。
+    - title: 天涯社区
+      logo: 
+      url: https://bbs.tianya.cn/
+      description: 经典的综合性论坛，涵盖情感、社会热点、文学等多个板块。
+      
+- taxonomy: 实用工具
+  icon: fa-tools
+  links:
+    - title: 站长工具
+      logo: 
+      url: https://tool.chinaz.com/
+      description: 提供网站检测、SEO分析、域名查询等多种站长工具。
+    - title: 草料二维码
+      logo: 
+      url: https://cli.im/
+      description: 国内知名二维码生成器，支持自定义设计和批量生成。
+    - title: 几何书签
+      logo: 
+      url: https://www.bookmarke.com/
+      description: 一个高效的在线书签管理工具，适合办公和学习使用。
+    - title: 在线PS图片编辑
+      logo: 
+      url: https://www.uupoop.com/
+      description: 简洁实用的在线图片编辑工具，无需安装即可完成快速编辑。
+    - title: Convertio文件格式转换
+      logo: 
+      url: https://convertio.co/zh/
+      description: 支持文档、图片、视频等多种格式转换，操作简单快速。
+    - title: 印记云笔记
+      logo: 
+      url: https://yinxiang.com/
+      description: 国内知名的云笔记平台，支持多设备同步，适合记录和管理笔记。
+
 ---
