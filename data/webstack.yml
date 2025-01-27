@@ -63,7 +63,7 @@
       url: https://18hlw.com
       description: 实时更新的深夜福利资源聚合站。
 
-- taxonomy: 实用工具/软件
+- taxonomy: 虚拟币软件
   icon: fa-tools
   links:
     - title: 火币
@@ -82,10 +82,10 @@
       logo: 
       url: https://token.im
       description: 便捷的多币种数字资产交易平台。
-    - title: ok钱包
-      logo: 
-      url: https://img.tianya66.cc
-      description: 管理数字货币的安全钱包。
+      
+- taxonomy: VPN加速器
+  icon: fa-tools
+  links: 
     - title: 爱加速
       logo: 
       url: https://www.91ajs.com
@@ -94,10 +94,6 @@
 - taxonomy: 社交&存储/资讯
   icon: fa-comments
   links:
-    - title: Meetalk
-      logo: 
-      url: https://meetlak.com
-      description: 隐私保护的社交平台，安全聊天工具。
     - title: 纸飞机
       logo: 
       url: https://telegram.org
@@ -106,8 +102,4 @@
       logo: 
       url: https://paopaoim.com
       description: 创新型社交平台，便捷的沟通方式。
-    - title: POP
-      logo: 
-      url: https://pop.im
-      description: 连接世界的新型社交工具。
 ---
