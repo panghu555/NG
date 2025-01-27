@@ -34,7 +34,95 @@ copyright = "© 2025 NG/C7导航站 - 权威导航"
 # 自定义页面路径
 [permalinks]
   404 = "/404.html"
+  about = "/about-us/"
+  contact = "/contact/"
+  privacy = "/privacy-policy/"
+  terms = "/terms-of-service/"  # 新增服务条款页面
 
 # 本地搜索功能的拼音匹配（true：开启；false：关闭）
 [params.pinyin]
   enable = true
+
+# 社交媒体分享配置
+[params.social]
+  facebook = "https://facebook.com/yourpage"
+  twitter = "https://twitter.com/yourpage"
+  instagram = "https://instagram.com/yourpage"
+  linkedin = "https://linkedin.com/yourpage"
+  wechat = "https://weixin.qq.com/r/yourpage"
+  tiktok = "https://www.tiktok.com/@yourpage"
+  youtube = "https://www.youtube.com/yourpage"  # 新增YouTube链接
+
+# Google Analytics 配置
+[params.analytics]
+  googleAnalytics = "UA-XXXXXXXXX-X"
+
+# 友情链接配置
+[params.friendLinks]
+  - name = "Example Link"
+    url = "https://example.com"
+    description = "Description of the link."
+  - name = "Another Link"
+    url = "https://another.com"
+    description = "Description of another link."
+  - name = "New Link"
+    url = "https://newlink.com"
+    description = "Newly added link."
+
+# 自定义主题颜色
+[params.themeColor]
+  primary = "#f14141"  # 主色
+  secondary = "#333333" # 次色
+  accent = "#ffffff"    # 强调色
+
+# 邮件订阅配置
+[params.newsletter]
+  enable = true
+  mailchimpListId = "yourMailchimpListId"
+  successMessage = "感谢订阅！"
+  errorMessage = "订阅失败，请重试。"
+
+# SEO 配置
+[params.seo]
+  metaTitle = "NG/C7导航站 - 提供最新的游戏平台入口和优惠活动"
+  metaDescription = "NG/C7导航站为您提供最全的游戏导航、最新的官方入口以及丰富的H5平台内容。"
+  metaKeywords = "NG娱乐, C7娱乐, 游戏, 导航, 入口"
+  ogTitle = "NG/C7导航站"
+  ogDescription = "访问NG/C7导航站，获取最新的游戏资讯和优惠活动。"
+  ogImage = "/images/og-image.jpg"
+
+# 站点地图配置
+[sitemap]
+  changefreq = "daily"
+  priority = 0.8
+
+# RSS 配置
+[params.rss]
+  enable = true
+  feedTitle = "NG/C7导航站 RSS Feed"
+  feedDescription = "订阅NG/C7导航站获取最新的娱乐和游戏资讯。"
+
+# 顶部广告位配置
+[params.topAd]
+  enable = true
+  image = "/images/top-ad.jpg"  # 顶部广告图片
+  link = "https://example.com/ad-link"  # 顶部广告链接
+  altText = "点击查看优惠活动"  # 广告的alt文本
+
+# 时钟和天气显示配置
+[params.clockAndWeather]
+  enable = true
+  location = "Beijing"  # 显示天气的城市
+  timeZone = "Asia/Shanghai"  # 时区设置
+
+# 本地搜索框提示
+[params.searchTips]
+  enable = true
+  placeholder = "请输入关键词进行搜索"
+
+# 弹窗配置
+[params.popUp]
+  enable = true
+  message = "欢迎访问NG/C7导航站！查看最新优惠活动。"
+  timeToShow = 5000  # 弹窗显示时间，单位：毫秒
+  closeButtonText = "关闭"
