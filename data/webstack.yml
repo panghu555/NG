@@ -27,13 +27,13 @@
       url: https://h5.c7h5gq.com/
       description: C7娱乐移动端平台，操作便捷，轻松畅玩。
 
-- taxonomy: 免费试玩平台
+- taxonomy: 试玩模拟器
   icon: fa-gamepad
   links:
     - title: PG电子试玩
       logo: images/logos/PG.png
       url: https://hfuisahdl.com/page2/page_2.html
-      description: 官方提供多款电子游戏试玩服务，畅享多元化的电子娱乐。
+      description: 官方提供多款电子游戏平台试玩服务，畅享多元化的电子娱乐。
     - title: JDB电子试玩
       logo: images/logos/JDB.png
       url: https://www.jdbgaming.com
@@ -50,42 +50,74 @@
       logo: images/logos/MG.png
       url: https://www.microgaming.co.uk
       description: MG官方试玩平台，探索经典和现代电子游戏魅力。
-    - title: TTG电子试玩
-      logo: images/logos/TTG.png
-      url: https://www.ttg.com
-      description: TTG游戏平台提供免费试玩服务，畅享优质游戏体验。
-    - title: SG电子试玩
-      logo: images/logos/SG.png
-      url: https://www.sg.com
-      description: SG平台提供免费试玩，体验精彩多样的电子游戏内容。
-    - title: EVO真人试玩
-      logo: images/logos/EVO.png
-      url: https://www.evolution.com
-      description: 领先的真人娱乐平台，提供沉浸式试玩体验。
+    - title: PT电子试玩
+      logo: images/logos/PT.png
+      url: https://www.playtech.com
+      description: PT平台官方提供多款游戏免费试玩，真实感受娱乐魅力。
     - title: AG电子试玩
       logo: images/logos/AG.png
       url: https://www.asia-gaming.com
       description: 亚洲顶尖游戏平台AG提供免费试玩服务，尽享优质娱乐。
+    - title: FG电子试玩
+      logo: images/logos/FG.png
+      url: https://www.fggaming.com
+      description: FG游戏平台试玩入口，体验流畅的游戏操作和多样化玩法。
+    - title: RT电子试玩
+      logo: images/logos/RT.png
+      url: https://www.redtigergaming.com
+      description: RT电子官方试玩平台，探索创意丰富的电子游戏世界。
+    - title: EVO真人试玩
+      logo: images/logos/EVO.png
+      url: https://www.evolution.com
+      description: 领先的真人娱乐平台，提供沉浸式试玩体验。
+    - title: BBIN电子试玩
+      logo: images/logos/BBIN.png
+      url: https://www.bbin.com
+      description: 亚洲领先的电子游戏平台，提供丰富多样的试玩游戏。
+    - title: SG电子试玩
+      logo: images/logos/SG.png
+      url: https://www.sggaming.com
+      description: SG官方游戏平台，提供全球知名的电子游戏免费试玩。
+    - title: KA电子试玩
+      logo: images/logos/KA.png
+      url: https://www.kagaming.com
+      description: KA游戏平台试玩服务，感受多元化的娱乐内容。
+    - title: BG真人试玩
+      logo: images/logos/BG.png
+      url: https://www.bg-gaming.com
+      description: BG真人娱乐平台，提供专业高端的真人游戏试玩。
+    - title: WM真人试玩
+      logo: images/logos/WM.png
+      url: https://www.wm-gaming.com
+      description: WM真人游戏平台，体验沉浸式真人娱乐服务。
+    - title: ISB电子试玩
+      logo: images/logos/ISB.png
+      url: https://www.isbgaming.com
+      description: ISB平台提供全方位的试玩服务，游戏丰富多样。
     - title: YGG电子试玩
       logo: images/logos/YGG.png
       url: https://www.yggdrasilgaming.com
-      description: YGG官方免费试玩，提供独具创意的电子游戏内容。
-    - title: Playtech试玩
-      logo: images/logos/PT.png
-      url: https://www.playtech.com
-      description: 提供多款免费游戏试玩，真实感受娱乐魅力。
-    - title: Red Tiger试玩
-      logo: images/logos/RT.png
-      url: https://www.redtigergaming.com
-      description: 创意丰富的RT电子游戏世界，探索无限可能。
-    - title: Pragmatic Play试玩
-      logo: images/logos/PP.png
-      url: https://www.pragmaticplay.com
-      description: 提供一流的游戏内容与免费试玩服务。
-    - title: Habanero试玩
-      logo: images/logos/HBN.png
-      url: https://www.habanerosystems.com
-      description: Habanero平台提供多样化的免费电子游戏内容。
+      description: YGG全球知名游戏平台，享受独具特色的游戏内容。
+    - title: 金殿试玩
+      logo: images/logos/GoldPalace.png
+      url: https://www.goldpalace.com
+      description: 提供丰富多样的电子与真人游戏试玩体验。
+    - title: 老虎机试玩
+      logo: images/logos/SlotMachine.png
+      url: https://www.slotmachine.com
+      description: 专业老虎机游戏试玩平台，体验经典与现代玩法。
+    - title: 龙腾电子试玩
+      logo: images/logos/Dragon.png
+      url: https://www.dragon-gaming.com
+      description: 龙腾游戏平台提供多种电子游戏免费试玩服务。
+    - title: 至尊试玩
+      logo: images/logos/Supreme.png
+      url: https://www.supremegaming.com
+      description: 至尊娱乐试玩平台，涵盖多种精彩游戏类型。
+    - title: 星罗试玩
+      logo: images/logos/Star.png
+      url: https://www.stargaming.com
+      description: 星罗游戏平台试玩入口，轻松体验多样化娱乐内容。
       
 - taxonomy: 深夜娱乐资源
   icon: fa-moon
@@ -133,7 +165,7 @@
     - title: 人人影视
       logo: 
       url: https://www.yyets.com
-      description: 提供丰富的海外影视资源，支持在线免费观看和下载。
+      description: 提供丰富的海外影视资源，支持在线免费观看和下载，无需会员。
     - title: 哔嘀影视
       logo: 
       url: https://www.bde4.com
@@ -154,22 +186,6 @@
       logo: 
       url: https://www.555dy.com
       description: 一个老牌免费视频网站，更新快速，支持在线点播。
-    - title: 星辰影院
-      logo: 
-      url: https://www.vodxc.com
-      description: 免费影视点播网站，支持高清影片播放，无需会员。
-    - title: 电影蜜蜂
-      logo: 
-      url: https://www.dianyingmf.com
-      description: 高质量电影分享平台，提供多类型影视资源。
-    - title: 天天美剧
-      logo: 
-      url: https://www.ttmeiju.vip
-      description: 专注美剧资源，提供高清美剧下载与在线观看。
-    - title: 爱追剧
-      logo: 
-      url: https://www.aizhuiju.com
-      description: 国内热门剧集观看平台，支持最新电视剧资源更新。
 
 - taxonomy: 短视频平台
   icon: fa-video
@@ -177,44 +193,76 @@
     - title: 抖音
       logo: 
       url: https://www.douyin.com/
-      description: 国内最火爆的短视频平台，涵盖娱乐、生活、知识等多种内容。
+      description: 国内最火爆的短视频平台，拥有丰富的娱乐、知识分享和生活内容。
     - title: 快手
       logo: 
       url: https://www.kuaishou.com/
-      description: 记录和分享真实生活，提供短视频和直播内容。
+      description: 主打真实生活记录，涵盖短视频、直播等内容，用户基础广泛。
+    - title: 哔哩哔哩（B站）
+      logo: 
+      url: https://www.bilibili.com/
+      description: 知名视频内容社区，短视频内容涵盖动漫、生活和创意领域。
     - title: 小红书
       logo: 
       url: https://www.xiaohongshu.com/
-      description: 集短视频、图文和种草分享于一体的综合平台。
-    - title: 哔哩哔哩
-      logo: 
-      url: https://www.bilibili.com/
-      description: 知名视频社区，提供动漫、生活、创意短视频等多样化内容。
-    - title: 视频号
-      logo: 
-      url: https://mp.weixin.qq.com/
-      description: 微信推出的短视频平台，与朋友圈、公众号联动，便于传播。
-    - title: 西瓜视频
-      logo: 
-      url: https://www.ixigua.com/
-      description: 字节跳动旗下的视频平台，提供短视频与中长视频内容。
+      description: 短视频与社交分享结合的种草平台，覆盖美妆、旅行、时尚等生活方式。
     - title: 微视
       logo: 
       url: https://weishi.qq.com/
-      description: 腾讯推出的短视频应用，支持音乐、特效和社交分享。
+      description: 腾讯推出的短视频平台，支持音乐特效和社交分享。
+    - title: 西瓜视频
+      logo: 
+      url: https://www.ixigua.com/
+      description: 字节跳动旗下的综合性视频平台，提供短视频和中长视频内容。
+    - title: 皮皮虾
+      logo: 
+      url: https://pipix.com/
+      description: 主打搞笑和社区互动的短视频平台，内容以段子和娱乐为主。
+    - title: 视频号
+      logo: 
+      url: https://weixin.qq.com/
+      description: 微信推出的短视频功能，直接与朋友圈和公众号关联，便于传播。
+    - title: 抖音极速版
+      logo: 
+      url: https://www.douyin.com/
+      description: 抖音推出的轻量版短视频平台，适合追求流畅体验的用户。
+    - title: Kuaishou极速版
+      logo: 
+      url: https://www.kuaishou.com/
+      description: 快手的极速版，功能精简但同样支持短视频浏览和分享。
+    - title: 逗拍
+      logo: 
+      url: https://www.doupai.cc/
+      description: 一款简单易用的视频创作平台，适合制作短视频或搞笑视频。
+    - title: 趣头条
+      logo: 
+      url: https://www.qutoutiao.net/
+      description: 内容聚合平台，短视频和资讯内容结合，适合碎片化阅读。
     - title: 火山小视频
       logo: 
       url: https://www.huoshan.com/
-      description: 主打娱乐生活的短视频平台，内容轻松有趣。
+      description: 主打短视频拍摄、分享，内容以娱乐和生活为主。
+    - title: 今日头条
+      logo: 
+      url: https://www.toutiao.com/
+      description: 综合内容平台，提供短视频、新闻、热点资讯的个性化推荐。
     - title: 美拍
       logo: 
       url: https://www.meipai.com/
-      description: 专注于美颜和特效短视频制作，适合年轻人群。
+      description: 主打美颜和特效短视频的制作与分享，广受年轻人喜爱。
+    - title: 小咖秀
+      logo: 
+      url: https://www.xiaokaxiu.com/
+      description: 短视频平台，主打对口型模仿和创意表演，适合娱乐创作。
     - title: 秒拍
       logo: 
       url: https://www.miaopai.com/
-      description: 老牌短视频平台，支持视频拍摄、编辑和快速分享。
-      
+      description: 老牌短视频平台，支持短视频拍摄、编辑和快速分享。
+    - title: 微博故事
+      logo: 
+      url: https://www.weibo.com/
+      description: 微博的短视频功能，支持随时分享生活点滴。
+
 - taxonomy: 论坛推荐
   icon: fa-comments
   links:
@@ -246,7 +294,7 @@
 - taxonomy: 社交&资讯
   icon: fa-comments
   links:
-    - title: 纸飞机（需要VPN）
+    - title: 纸飞机
       logo: 
       url: https://telegram.org
       description: 全球领先的加密即时通讯工具，保障您的隐私与安全。
@@ -286,10 +334,14 @@
       logo: 
       url: https://token.im
       description: 高效便捷的多币种数字资产交易平台，满足多样化需求。
+    - title: 虚拟币使用教程
+      logo: 
+      url: https://www.example.com/crypto-tutorial-china
+      description: 面向中国用户的虚拟币入门教程，包含账户注册、交易流程、风险管理等详细讲解。
       
 - taxonomy: VPN加速器
   icon: fa-tools
-  links:
+  links: 
     - title: 爱加速
       logo: 
       url: https://www.91ajs.com
@@ -310,8 +362,12 @@
       logo: 
       url: https://apps.apple.com/us/app/shadowrocket/id932747118
       description: 强大的网络代理工具，适用于苹果设备，支持多协议并提供高自由度的配置功能。
+    - title: VPN使用教程
+      logo: 
+      url: https://www.example.com/vpn-tutorial
+      description: 详细讲解VPN的基础知识、安装流程及使用技巧，适合新手用户。
       
-- taxonomy: 国外ID短信接码
+- taxonomy: 虚拟服务与工具
   icon: fa-tools
   links: 
     - title: 苹果国外ID购买网站
@@ -323,7 +379,7 @@
       url: https://sms-activate.org
       description: 专业的接码平台，支持全球虚拟号码接收验证码服务，便捷高效。
      
-- taxonomy: 短视频剪辑
+- taxonomy: 短视频剪辑软件
   icon: fa-video
   links:
     - title: 剪映
