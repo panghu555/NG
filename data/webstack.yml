@@ -36,11 +36,11 @@
       url: https://hfuisahdl.com/page2/page_2.html
       description: 官方提供多款电子游戏平台试玩服务，畅享多元化的电子娱乐。
     - title: JDB电子试玩
-      logo: 
+      logo: images/JDB.png
       url: https://www.jdbgaming.com
       description: 畅玩JDB经典电子游戏，真实体验精彩玩法。
     - title: CQ9电子试玩
-      logo: 
+      logo: images/CQ9.png
       url: https://demo.cqgame.games
       description: CQ9官方试玩平台，尽享高品质娱乐盛宴。
     - title: PT电子试玩
@@ -48,7 +48,7 @@
       url: https://www.playtech.com
       description: PT平台官方提供多款游戏免费试玩，真实感受娱乐魅力。
     - title: BBIN电子试玩
-      logo: 
+      logo: images/BBIN.png
       url: https://www.bbin.com
       description: 亚洲领先的电子游戏平台，提供丰富多样的试玩游戏。
     - title: YGG电子试玩
@@ -60,7 +60,7 @@
   icon: fa-film
   links:
     - title: 人人影视
-      logo: 
+      logo: images/RR.png
       url: https://www.yyets.com
       description: 提供丰富的海外影视资源，支持在线免费观看和下载，无需会员。
     - title: 茶杯狐
@@ -108,11 +108,11 @@
       url: https://wangwangr.com
       description: 高效商务沟通工具，安全稳定。
     - title: 微信网页版
-      logo: 
+      logo: images/WX.png
       url: https://wx.qq.com
       description: 电脑端微信聊天工具，方便快捷。
     - title: QQ网页版
-      logo: 
+      logo: images/QQ.png
       url: https://web2.qq.com
       description: 电脑端QQ聊天，随时沟通无忧。
 
@@ -152,15 +152,15 @@
   icon: fa-tools
   links:
     - title: 站长工具
-      logo: 
+      logo: images/ZG.png
       url: https://tool.chinaz.com/
       description: 提供网站检测、SEO分析、域名查询等工具。
     - title: 草料二维码
-      logo: 
+      logo: images/CT.png
       url: https://cli.im/
       description: 知名二维码生成器，支持自定义设计和批量生成。
     - title: Convertio格式转换
-      logo: 
+      logo: images/CON.png
       url: https://convertio.co/zh/
       description: 支持文档、图片、视频等多种格式转换，操作简单快速。
     - title: 在线PS
@@ -172,7 +172,7 @@
       url: https://www.speedtest.net/
       description: 在线网络测速工具，精准测试你的网速。
     - title: Wolfram Alpha
-      logo: 
+      logo: images/WO.png
       url: https://www.wolframalpha.com/
       description: 强大的知识计算引擎，解决数学、科学问题。
 
