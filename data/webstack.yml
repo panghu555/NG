@@ -124,7 +124,7 @@
       url: https://web2.qq.com
       description: 电脑端QQ聊天，随时沟通无忧。
 
-- taxonomy: 虚拟币APP
+- taxonomy: 虚拟币/教程
   icon: fa-bitcoin
   links:
     - title: 火币
