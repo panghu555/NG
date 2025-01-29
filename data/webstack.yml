@@ -1,5 +1,5 @@
 ---
-- taxonomy: 热门推荐
+- taxonomy: 官方推荐 🔥
   icon: fa-star
   links: 
     - title: NG娱乐官网
@@ -26,8 +26,8 @@
       logo: images/logos/C766.png
       url: https://h5.c7h5gq.com/
       description: C7娱乐移动端平台，操作便捷，轻松畅玩。
-
-- taxonomy: 试玩模拟器
+      
+- taxonomy: 娱乐试玩 🎮
   icon: fa-gamepad
   links:
     - title: PG电子试玩
@@ -42,18 +42,10 @@
       logo: images/logos/CQ9.png
       url: https://demo.cqgame.games
       description: CQ9官方试玩平台，尽享高品质娱乐盛宴。
-    - title: DB系列试玩
-      logo: images/logos/DB.png
-      url: https://www.dbgaming.com
-      description: DB系列试玩平台，带来创新独特的游戏体验。
     - title: PT电子试玩
       logo: images/logos/PT.png
       url: https://www.playtech.com
       description: PT平台官方提供多款游戏免费试玩，真实感受娱乐魅力。
-    - title: EVO真人试玩
-      logo: images/logos/EVO.png
-      url: https://www.evolution.com
-      description: 领先的真人娱乐平台，提供沉浸式试玩体验。
     - title: BBIN电子试玩
       logo: images/logos/BBIN.png
       url: https://www.bbin.com
@@ -62,16 +54,8 @@
       logo: images/logos/YGG.png
       url: https://www.yggdrasilgaming.com
       description: YGG全球知名游戏平台，享受独具特色的游戏内容。
-      
-- taxonomy: 深夜娱乐资源
-  icon: fa-moon
-  links:
-    - title: YP福利
-      logo: 
-      url: https:/6.f697.cc
-      description: 提供深夜精选资源，实时更新，内容全面。
-      
-- taxonomy: 在线电影网站
+
+- taxonomy: 在线观影 🍿
   icon: fa-film
   links:
     - title: 人人影视
@@ -82,154 +66,82 @@
       logo: 
       url: https://cupfox.app
       description: 全网影视聚合平台，支持在线查找和观看，无需注册。
-    
-- taxonomy: 短视频平台
+    - title: 韩剧TV
+      logo: 
+      url: https://www.hanjutv.com
+      description: 海量韩剧免费观看，追剧党的最爱！
+    - title: 哔哩哔哩（B站）
+      logo: 
+      url: https://www.bilibili.com
+      description: 国内知名的视频社区，涵盖动漫、影视、娱乐、学习等领域。
+    - title: 电影天堂
+      logo: 
+      url: https://www.dytt8.net
+      description: 免费电影下载站，提供最新高清电影资源。
+      
+- taxonomy: 短视频&直播 📹
   icon: fa-video
   links:
     - title: 抖音
       logo: 
       url: https://www.douyin.com/
-      description: 国内最火爆的短视频平台，拥有丰富的娱乐、知识分享和生活内容。
+      description: 国内最火爆的短视频平台，娱乐、知识、生活全覆盖。
     - title: 快手
       logo: 
       url: https://www.kuaishou.com/
-      description: 主打真实生活记录，涵盖短视频、直播等内容，用户基础广泛。
-    - title: 哔哩哔哩（B站）
-      logo: 
-      url: https://www.bilibili.com/
-      description: 知名视频内容社区，短视频内容涵盖动漫、生活和创意领域。
+      description: 真实生活记录，涵盖短视频、直播等内容。
     - title: 小红书
       logo: 
       url: https://www.xiaohongshu.com/
-      description: 短视频与社交分享结合的种草平台，覆盖美妆、旅行、时尚等生活方式。
-    - title: 微视
-      logo: 
-      url: https://weishi.qq.com/
-      description: 腾讯推出的短视频平台，支持音乐特效和社交分享。
+      description: 生活方式分享平台，短视频与社交结合。
     - title: 西瓜视频
       logo: 
       url: https://www.ixigua.com/
-      description: 字节跳动旗下的综合性视频平台，提供短视频和中长视频内容。
-    - title: 皮皮虾
-      logo: 
-      url: https://pipix.com/
-      description: 主打搞笑和社区互动的短视频平台，内容以段子和娱乐为主。
-    - title: 视频号
-      logo: 
-      url: https://weixin.qq.com/
-      description: 微信推出的短视频功能，直接与朋友圈和公众号关联，便于传播。
-    - title: 抖音极速版
-      logo: 
-      url: https://www.douyin.com/
-      description: 抖音推出的轻量版短视频平台，适合追求流畅体验的用户。
-    - title: Kuaishou极速版
-      logo: 
-      url: https://www.kuaishou.com/
-      description: 快手的极速版，功能精简但同样支持短视频浏览和分享。
-    - title: 逗拍
-      logo: 
-      url: https://www.doupai.cc/
-      description: 一款简单易用的视频创作平台，适合制作短视频或搞笑视频。
-    - title: 趣头条
-      logo: 
-      url: https://www.qutoutiao.net/
-      description: 内容聚合平台，短视频和资讯内容结合，适合碎片化阅读。
-    - title: 火山小视频
-      logo: 
-      url: https://www.huoshan.com/
-      description: 主打短视频拍摄、分享，内容以娱乐和生活为主。
-    - title: 今日头条
-      logo: 
-      url: https://www.toutiao.com/
-      description: 综合内容平台，提供短视频、新闻、热点资讯的个性化推荐。
-    - title: 美拍
-      logo: 
-      url: https://www.meipai.com/
-      description: 主打美颜和特效短视频的制作与分享，广受年轻人喜爱。
-    - title: 小咖秀
-      logo: 
-      url: https://www.xiaokaxiu.com/
-      description: 短视频平台，主打对口型模仿和创意表演，适合娱乐创作。
-    - title: 秒拍
-      logo: 
-      url: https://www.miaopai.com/
-      description: 老牌短视频平台，支持短视频拍摄、编辑和快速分享。
-    - title: 微博故事
-      logo: 
-      url: https://www.weibo.com/
-      description: 微博的短视频功能，支持随时分享生活点滴。
+      description: 字节跳动旗下综合视频平台，提供优质内容。
 
-- taxonomy: 论坛推荐
+- taxonomy: 社交&通讯 🗣
   icon: fa-comments
   links:
-    - title: 虎扑社区
-      logo: 
-      url: https://bbs.hupu.com/
-      description: 国内知名的体育和综合讨论社区，尤其是篮球、足球相关内容深受欢迎。
-    - title: 知乎盐选圈
-      logo: 
-      url: https://www.zhihu.com
-      description: 专注知识分享的讨论社区，覆盖各类兴趣圈子和热点话题。
-    - title: V2EX
-      logo: 
-      url: https://www.v2ex.com/
-      description: 以程序员和技术爱好者为主的讨论论坛，聚焦科技和互联网话题。
-    - title: 贴吧
-      logo: 
-      url: https://tieba.baidu.com/
-      description: 国内最大的兴趣社区，支持各类主题讨论，用户基础广泛。
-    - title: NGA玩家社区
-      logo: 
-      url: https://www.nga.cn/
-      description: 国内最大的游戏论坛之一，专注于网游和主机游戏讨论。
-    - title: 天涯社区
-      logo: 
-      url: https://bbs.tianya.cn/
-      description: 经典的综合性论坛，涵盖情感、社会热点、文学等多个板块。
-
-- taxonomy: 社交&资讯
-  icon: fa-comments
-  links:
-    - title: 纸飞机
+    - title: 纸飞机（Telegram）
       logo: 
       url: https://telegram.org
-      description: 全球领先的加密即时通讯工具，保障您的隐私与安全。
+      description: 全球加密聊天软件，私密安全。
     - title: 旺旺商聊
       logo: 
       url: https://wangwangr.com
-      description: 高效的商务沟通平台，为您提供安全稳定的聊天服务。
-    - title: 钉钉
+      description: 高效商务沟通工具，安全稳定。
+    - title: 微信网页版
       logo: 
-      url: https://www.dingtalk.com
-      description: 专为企业设计的智能办公平台，支持即时通讯与高效协作。
-      
-- taxonomy: 虚拟币软件
-  icon: fa-tools
+      url: https://wx.qq.com
+      description: 电脑端微信聊天工具，方便快捷。
+    - title: QQ网页版
+      logo: 
+      url: https://web2.qq.com
+      description: 电脑端QQ聊天，随时沟通无忧。
+
+- taxonomy: 加密货币 💰
+  icon: fa-bitcoin
   links:
     - title: 火币
       logo: 
       url: https://www.huobi.com
-      description: 全球领先的数字资产交易平台，提供安全、稳定的交易服务。
+      description: 全球领先的数字资产交易平台，提供安全稳定交易。
     - title: 币安
       logo: 
       url: https://www.binance.com
-      description: 国际顶级数字货币交易所，支持多种币种交易和创新功能。
-    - title: 欧意
+      description: 国际顶级数字货币交易所，支持多种币种交易。
+    - title: 欧意（OKX）
       logo: 
       url: https://www.okx.com
-      description: 专业的数字资产交易平台，安全快捷，用户体验友好。
-    - title: TO交易所
-      logo: 
-      url: https://token.im
-      description: 高效便捷的多币种数字资产交易平台，满足多样化需求。
+      description: 专业数字资产交易平台，安全快捷。
     - title: 虚拟币使用教程
       logo: 
-      url: https://www.example.com/crypto-tutorial-china
-      description: 面向中国用户的虚拟币入门教程，包含账户注册、交易流程、风险管理等详细讲解。
-      
-- taxonomy: VPN加速器
-  icon: fa-tools
-  links: 
+      url: https://www.bitcoin.com/zh/get-started/a-quick-introduction-to-crypto/
+      description: 加密货币新手指南，帮助您快速入门。
+
+- taxonomy: VPN加速器 🚀
+  icon: fa-shield
+  links:
     - title: 爱加速
       logo: 
       url: https://www.91ajs.com
@@ -237,66 +149,34 @@
     - title: 苹果小火箭（Shadowrocket）
       logo: 
       url: https://apps.apple.com/us/app/shadowrocket/id932747118
-      description: 强大的网络代理工具，适用于苹果设备，支持多协议并提供高自由度的配置功能。
-    - title: VPN使用教程
-      logo: 
-      url: https://www.example.com/vpn-tutorial
-      description: 详细讲解VPN的基础知识、安装流程及使用技巧，适合新手用户。
-      
-- taxonomy: 虚拟服务与工具
-  icon: fa-tools
-  links: 
-    - title: 苹果国外ID购买网站
-      logo: 
-      url: https://fk.appledi.com/
-      description: 提供安全便捷的苹果国外ID购买服务，支持国内用户快速购买和使用。
-    - title: 接码平台
-      logo: 
-      url: https://sms-activate.org
-      description: 专业的接码平台，支持全球虚拟号码接收验证码服务，便捷高效。
-     
-- taxonomy: 短视频剪辑软件
-  icon: fa-video
-  links:
-    - title: 剪映
-      logo: 
-      url: https://lv.ulikecam.com/
-      description: 简单易用的短视频剪辑工具，支持滤镜、字幕和特效，适合初学者。
-    - title: 快影
-      logo: 
-      url: https://www.kwai.com/
-      description: 快手官方推出的视频剪辑工具，提供丰富的音乐和剪辑模板。
-    - title: 轻抖
-      logo: 
-      url: https://www.qingdou.vip
-      description: 抖音创作者专属工具，提供数据分析、运营支持和短视频剪辑功能。
-    
-- taxonomy: 实用工具
+      description: 强大的网络代理工具，支持多协议并提供高自由度的配置功能。
+
+- taxonomy: 实用工具 🛠
   icon: fa-tools
   links:
     - title: 站长工具
       logo: 
       url: https://tool.chinaz.com/
-      description: 提供网站检测、SEO分析、域名查询等多种站长工具。
+      description: 提供网站检测、SEO分析、域名查询等工具。
     - title: 草料二维码
       logo: 
       url: https://cli.im/
-      description: 国内知名二维码生成器，支持自定义设计和批量生成。
-    - title: 几何书签
-      logo: 
-      url: https://www.bookmarke.com/
-      description: 一个高效的在线书签管理工具，适合办公和学习使用。
-    - title: 在线PS图片编辑
-      logo: 
-      url: https://www.uupoop.com/
-      description: 简洁实用的在线图片编辑工具，无需安装即可完成快速编辑。
-    - title: Convertio文件格式转换
+      description: 知名二维码生成器，支持自定义设计和批量生成。
+    - title: Convertio格式转换
       logo: 
       url: https://convertio.co/zh/
       description: 支持文档、图片、视频等多种格式转换，操作简单快速。
-    - title: 印记云笔记
+    - title: 在线PS
       logo: 
-      url: https://yinxiang.com/
-      description: 国内知名的云笔记平台，支持多设备同步，适合记录和管理笔记。
+      url: https://www.photopea.com/
+      description: 免费在线Photoshop，强大且无需安装。
+    - title: Speedtest测速
+      logo: 
+      url: https://www.speedtest.net/
+      description: 在线网络测速工具，精准测试你的网速。
+    - title: Wolfram Alpha
+      logo: 
+      url: https://www.wolframalpha.com/
+      description: 强大的知识计算引擎，解决数学、科学问题。
 
 ---
