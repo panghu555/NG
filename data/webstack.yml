@@ -67,10 +67,6 @@
       logo: 
       url: https://cupfox.app
       description: 全网影视聚合平台，支持在线查找和观看，无需注册。
-    - title: 韩剧TV
-      logo: 
-      url: https://www.hanjutv.com
-      description: 海量韩剧免费观看，追剧党的最爱。
     - title: 哔哩哔哩（B站）
       logo: 
       url: https://www.bilibili.com
@@ -137,7 +133,7 @@
       description: 专业数字资产交易平台，安全快捷。
     - title: 虚拟币使用教程
       logo: 
-      url: https://www.bitcoin.com/zh/get-started/a-quick-introduction-to-crypto/
+      url: https://czusdt.vip
       description: 加密货币新手指南，帮助您快速入门。
 
 - taxonomy: VPN加速器
