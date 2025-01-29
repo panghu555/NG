@@ -1,5 +1,6 @@
 ---
-- taxonomy: 官方推荐 🔥
+
+- taxonomy: 官方推荐
   icon: fa-star
   links: 
     - title: NG娱乐官网
@@ -26,8 +27,8 @@
       logo: images/logos/C766.png
       url: https://h5.c7h5gq.com/
       description: C7娱乐移动端平台，操作便捷，轻松畅玩。
-      
-- taxonomy: 娱乐试玩 🎮
+
+- taxonomy: 娱乐试玩
   icon: fa-gamepad
   links:
     - title: PG电子试玩
@@ -55,7 +56,7 @@
       url: https://www.yggdrasilgaming.com
       description: YGG全球知名游戏平台，享受独具特色的游戏内容。
 
-- taxonomy: 在线观影 🍿
+- taxonomy: 在线观影
   icon: fa-film
   links:
     - title: 人人影视
@@ -69,7 +70,7 @@
     - title: 韩剧TV
       logo: 
       url: https://www.hanjutv.com
-      description: 海量韩剧免费观看，追剧党的最爱！
+      description: 海量韩剧免费观看，追剧党的最爱。
     - title: 哔哩哔哩（B站）
       logo: 
       url: https://www.bilibili.com
@@ -79,7 +80,7 @@
       url: https://www.dytt8.net
       description: 免费电影下载站，提供最新高清电影资源。
       
-- taxonomy: 短视频&直播 📹
+- taxonomy: 短视频&直播
   icon: fa-video
   links:
     - title: 抖音
@@ -99,7 +100,7 @@
       url: https://www.ixigua.com/
       description: 字节跳动旗下综合视频平台，提供优质内容。
 
-- taxonomy: 社交&通讯 🗣
+- taxonomy: 社交&通讯
   icon: fa-comments
   links:
     - title: 纸飞机（Telegram）
@@ -119,7 +120,7 @@
       url: https://web2.qq.com
       description: 电脑端QQ聊天，随时沟通无忧。
 
-- taxonomy: 加密货币 💰
+- taxonomy: 加密货币
   icon: fa-bitcoin
   links:
     - title: 火币
@@ -139,7 +140,7 @@
       url: https://www.bitcoin.com/zh/get-started/a-quick-introduction-to-crypto/
       description: 加密货币新手指南，帮助您快速入门。
 
-- taxonomy: VPN加速器 🚀
+- taxonomy: VPN加速器
   icon: fa-shield
   links:
     - title: 爱加速
@@ -151,7 +152,7 @@
       url: https://apps.apple.com/us/app/shadowrocket/id932747118
       description: 强大的网络代理工具，支持多协议并提供高自由度的配置功能。
 
-- taxonomy: 实用工具 🛠
+- taxonomy: 实用工具
   icon: fa-tools
   links:
     - title: 站长工具
