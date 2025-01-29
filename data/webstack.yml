@@ -56,6 +56,14 @@
       url: https://www.yggdrasilgaming.com
       description: YGG全球知名游戏平台，享受独具特色的游戏内容。
 
+- taxonomy: 深夜福利-老司机
+  icon: fa-film
+  links:
+    - title: 人人影视
+      logo: images/x.png
+      url: https://x122a7r5csgup.com:58010
+      description: 提供丰富的海外影视资源，支持在线免费观看和下载，无需会员。      
+
 - taxonomy: 在线观影
   icon: fa-film
   links:
@@ -116,7 +124,7 @@
       url: https://web2.qq.com
       description: 电脑端QQ聊天，随时沟通无忧。
 
-- taxonomy: 加密货币
+- taxonomy: 虚拟币APP
   icon: fa-bitcoin
   links:
     - title: 火币
