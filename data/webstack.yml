@@ -60,19 +60,19 @@
   icon: fa-film
   links:
     - title: 人人影视
-      logo: 
+      logo: images/logos/RR.png
       url: https://www.yyets.com
       description: 提供丰富的海外影视资源，支持在线免费观看和下载，无需会员。
     - title: 茶杯狐
-      logo: 
+      logo:  
       url: https://cupfox.app
       description: 全网影视聚合平台，支持在线查找和观看，无需注册。
     - title: 哔哩哔哩（B站）
-      logo: 
+      logo: images/logos/BB.jpg
       url: https://www.bilibili.com
       description: 国内知名的视频社区，涵盖动漫、影视、娱乐、学习等领域。
     - title: 电影天堂
-      logo: 
+      logo: images/logos/电影天堂.jpg
       url: https://www.dytt8.net
       description: 免费电影下载站，提供最新高清电影资源。
       
@@ -80,19 +80,19 @@
   icon: fa-video
   links:
     - title: 抖音
-      logo: 
+      logo:  images/logos/DY.png
       url: https://www.douyin.com/
       description: 国内最火爆的短视频平台，娱乐、知识、生活全覆盖。
     - title: 快手
-      logo: 
+      logo: images/logos/KS.png
       url: https://www.kuaishou.com/
       description: 真实生活记录，涵盖短视频、直播等内容。
     - title: 小红书
-      logo: 
+      logo: images/logos/XHS.png
       url: https://www.xiaohongshu.com/
       description: 生活方式分享平台，短视频与社交结合。
     - title: 西瓜视频
-      logo: 
+      logo: images/logos/XG.png
       url: https://www.ixigua.com/
       description: 字节跳动旗下综合视频平台，提供优质内容。
 
@@ -100,19 +100,19 @@
   icon: fa-comments
   links:
     - title: 纸飞机（Telegram）
-      logo: 
+      logo: images/logos/ZFJ.png
       url: https://telegram.org
       description: 全球加密聊天软件，私密安全。
     - title: 旺旺商聊
-      logo: 
+      logo: images/logos/WW.png
       url: https://wangwangr.com
       description: 高效商务沟通工具，安全稳定。
     - title: 微信网页版
-      logo: 
+      logo: images/logos/WX.png
       url: https://wx.qq.com
       description: 电脑端微信聊天工具，方便快捷。
     - title: QQ网页版
-      logo: 
+      logo: images/logos/QQ.png
       url: https://web2.qq.com
       description: 电脑端QQ聊天，随时沟通无忧。
 
@@ -120,15 +120,15 @@
   icon: fa-bitcoin
   links:
     - title: 火币
-      logo: 
+      logo: images/logos/HB.png
       url: https://www.huobi.com
       description: 全球领先的数字资产交易平台，提供安全稳定交易。
     - title: 币安
-      logo: 
+      logo: images/logos/BA.png
       url: https://www.binance.com
       description: 国际顶级数字货币交易所，支持多种币种交易。
     - title: 欧意（OKX）
-      logo: 
+      logo: images/logos/OY.png
       url: https://www.okx.com
       description: 专业数字资产交易平台，安全快捷。
     - title: 虚拟币使用教程
@@ -140,11 +140,11 @@
   icon: fa-shield
   links:
     - title: 爱加速
-      logo: 
+      logo: images/logos/th-7.png
       url: https://www.91ajs.com
       description: 提供稳定快速的网络加速服务，支持苹果和安卓设备。
     - title: 苹果小火箭（Shadowrocket）
-      logo: 
+      logo: images/logos/512×512bb.jnp
       url: https://apps.apple.com/us/app/shadowrocket/id932747118
       description: 强大的网络代理工具，支持多协议并提供高自由度的配置功能。
 
@@ -164,11 +164,11 @@
       url: https://convertio.co/zh/
       description: 支持文档、图片、视频等多种格式转换，操作简单快速。
     - title: 在线PS
-      logo: 
+      logo: images/logos/PS.png
       url: https://www.photopea.com/
       description: 免费在线Photoshop，强大且无需安装。
     - title: Speedtest测速
-      logo: 
+      logo: images/logos/CS.png
       url: https://www.speedtest.net/
       description: 在线网络测速工具，精准测试你的网速。
     - title: Wolfram Alpha
